@@ -1,6 +1,6 @@
 # App-Blocker-Builder
 
-An application blocker by Skillax created on behalf of the RAIDKiller which can be used to
+An application blocker which can be used to
 
 ● Malware creation
 
